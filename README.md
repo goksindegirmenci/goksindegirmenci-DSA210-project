@@ -25,11 +25,10 @@ Motivation
 The increasing dependency on smartphones has a huge impact on daily routines and time management strategies. Today, increased phone usage and time spent on social media are too much. Therefore, this project aims to analyze smartphone usage patterns to understand the time a university student spends on social media, phone usage time, notifications, app interactions, and overall trends.
 
 Tools
-• Python: Examination and analysis of data in code.
+  • Python: Examination and analysis of data in code.
+  • Pandas: Used to organize, filter and clean the dataset.
+  • Excel: Processing and analysis of data.
 
-• Pandas: Used to organize, filter and clean the dataset.
-
-• Excel: Processing and analysis of data.
 Data Source
   1.	Screen Time Data:
     •	Processed from iPhone reports between October 2024 and November 2024.
