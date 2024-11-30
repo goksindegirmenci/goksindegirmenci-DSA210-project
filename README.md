@@ -8,11 +8,14 @@ Table of Contents
 4.	Data Processing
 5.	Data Visualizations
 6.	Data Analysis 
-
   •	Active Times
+
   •	Notifications and Unlocks
+  
   •	Usage Intensity Across Applications
+  
   •	Trends in Time Spent Across App Categories
+  
 8.	Findings 
   •	Daily Activity Patterns
   •	Notifications and Application Prioritization
