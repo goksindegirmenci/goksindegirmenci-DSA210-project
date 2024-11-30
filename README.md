@@ -8,18 +8,19 @@ Table of Contents
 4.	Data Processing
 5.	Data Visualizations
 6.	Data Analysis 
+
   •	Active Times
   •	Notifications and Unlocks
   •	Usage Intensity Across Applications
   •	Trends in Time Spent Across App Categories
-7.	Findings 
+8.	Findings 
   •	Daily Activity Patterns
   •	Notifications and Application Prioritization
   •	Trends in Usage by Categories
-8.	Limitations 
+9.	Limitations 
   •	Data-Sourced Limitations
   •	Personal Limitations
-9.	Future Work
+10.	Future Work
 
 Motivation
 The increasing dependency on smartphones has a huge impact on daily routines and time management strategies. Today, increased phone usage and time spent on social media are too much. Therefore, this project aims to analyze smartphone usage patterns to understand the time a university student spends on social media, phone usage time, notifications, app interactions, and overall trends.
